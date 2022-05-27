@@ -25,7 +25,6 @@ namespace BlackJack
         List<User> users = new List<User>();
         CardController Cardcontroller;
 
-//Cnofirm pushed
         public MainForm(NameValueCollection appSettings)
         {
             try
