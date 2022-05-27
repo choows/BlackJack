@@ -23,9 +23,9 @@ namespace BlackJack
 
         List<Card> TrashCards = new List<Card>();   //To store the used card. 
         List<User> users = new List<User>();
-        CardController Cardcontroller; 
+        CardController Cardcontroller;
 
-
+//Cnofirm pushed
         public MainForm(NameValueCollection appSettings)
         {
             try
