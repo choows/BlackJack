@@ -52,6 +52,7 @@ namespace BlackJack
                     HandCard = new List<Card>(),
                     Point = 0
                 });
+                var a = "asd";
                 users.Add(new User()
                 {
                     Name = Player,
